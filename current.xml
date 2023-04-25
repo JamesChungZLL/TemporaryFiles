@@ -214,7 +214,7 @@
 
           </WEBElement>
           <WEBElement  x="469" y="364" width="730" height="20" tagName="DIV" content="" elementId="" class="dots f-cb">
-            <WEBElement  x="754" y="364" width="20" height="20" tagName="A" content="" elementId="" class="pg click-flag pg-flag f-alpha">
+            <WEBElement  x="754" y="364" width="20" height="20" tagName="A" content="" elementId="" class="pg click-flag pg-flag f-alpha z-slt">
 
             </WEBElement>
             <WEBElement  x="777" y="364" width="20" height="20" tagName="A" content="" elementId="" class="pg click-flag pg-flag f-alpha">
