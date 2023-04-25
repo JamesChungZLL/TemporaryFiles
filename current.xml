@@ -838,7 +838,31 @@
 
                             </WEBElement>
                             <WEBElement  x="1165" y="342" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
-                              <WEBElement  x="1165" y="342" width="190" height="150" tagName="IMG" content="公共采购频道316" elementId="" class="recommend-item__image">
+                              <WEBElement  x="1165" y="342" width="190" height="150" tagName="IMG" content="" elementId="" class="recommend-item__image">
+
+                              </WEBElement>
+
+                            </WEBElement>
+                            <WEBElement  x="1165" y="502" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
+                              <WEBElement  x="1165" y="502" width="190" height="150" tagName="IMG" content="公共采购频道316" elementId="" class="recommend-item__image">
+
+                              </WEBElement>
+
+                            </WEBElement>
+
+                          </WEBElement>
+
+                        </WEBElement>
+                        <WEBElement  x="1165" y="182" width="190" height="470" tagName="LI" content="" elementId="" class="slider_item focus-slider__item focus-item slider_next">
+                          <WEBElement  x="1165" y="182" width="190" height="470" tagName="DIV" content="" elementId="" class="focus-item__recommend">
+                            <WEBElement  x="1165" y="182" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
+                              <WEBElement  x="1165" y="182" width="190" height="150" tagName="IMG" content="手机好店" elementId="" class="recommend-item__image">
+
+                              </WEBElement>
+
+                            </WEBElement>
+                            <WEBElement  x="1165" y="342" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
+                              <WEBElement  x="1165" y="342" width="190" height="150" tagName="IMG" content="品质购物节" elementId="" class="recommend-item__image">
 
                               </WEBElement>
 
@@ -853,34 +877,10 @@
                           </WEBElement>
 
                         </WEBElement>
-                        <WEBElement  x="1165" y="182" width="190" height="470" tagName="LI" content="" elementId="" class="slider_item focus-slider__item focus-item slider_next">
-                          <WEBElement  x="1165" y="182" width="190" height="470" tagName="DIV" content="" elementId="" class="focus-item__recommend">
-                            <WEBElement  x="1165" y="182" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
-                              <WEBElement  x="1165" y="182" width="190" height="150" tagName="IMG" content="" elementId="" class="recommend-item__image">
-
-                              </WEBElement>
-
-                            </WEBElement>
-                            <WEBElement  x="1165" y="342" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
-                              <WEBElement  x="1165" y="342" width="190" height="150" tagName="IMG" content="万物皆可拍" elementId="" class="recommend-item__image">
-
-                              </WEBElement>
-
-                            </WEBElement>
-                            <WEBElement  x="1165" y="502" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
-                              <WEBElement  x="1165" y="502" width="190" height="150" tagName="IMG" content="京东国际会员店" elementId="" class="recommend-item__image">
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
                         <WEBElement  x="1165" y="182" width="190" height="470" tagName="LI" content="" elementId="" class="slider_item focus-slider__item focus-item slider_prev">
                           <WEBElement  x="1165" y="182" width="190" height="470" tagName="DIV" content="" elementId="" class="focus-item__recommend">
                             <WEBElement  x="1165" y="182" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
-                              <WEBElement  x="1165" y="182" width="190" height="150" tagName="IMG" content="" elementId="" class="recommend-item__image">
+                              <WEBElement  x="1165" y="182" width="190" height="150" tagName="IMG" content="新客有礼" elementId="" class="recommend-item__image">
 
                               </WEBElement>
 
@@ -892,7 +892,7 @@
 
                             </WEBElement>
                             <WEBElement  x="1165" y="502" width="190" height="150" tagName="A" content="" elementId="" class="recommend-item fade-in">
-                              <WEBElement  x="1165" y="502" width="190" height="150" tagName="IMG" content="京东居家" elementId="" class="recommend-item__image">
+                              <WEBElement  x="1165" y="502" width="190" height="150" tagName="IMG" content="" elementId="" class="recommend-item__image">
 
                               </WEBElement>
 
@@ -1282,7 +1282,7 @@
                   <WEBElement  x="445" y="884" width="30" height="30" tagName="SPAN" content="21" elementId="" class="timmer__unit timmer__unit--minute">
 
                   </WEBElement>
-                  <WEBElement  x="495" y="884" width="30" height="30" tagName="SPAN" content="54" elementId="" class="timmer__unit timmer__unit--second">
+                  <WEBElement  x="495" y="884" width="30" height="30" tagName="SPAN" content="19" elementId="" class="timmer__unit timmer__unit--second">
 
                   </WEBElement>
 
