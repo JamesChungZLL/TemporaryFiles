@@ -89,7 +89,7 @@
           </WEBElement>
 
         </WEBElement>
-        <WEBElement  x="1460" y="19" width="50" height="45" tagName="DIV" content="" elementId="auto-id-4BznP4GH6zb0TF26" class="m-tophead f-pr j-tflag">
+        <WEBElement  x="1460" y="19" width="50" height="45" tagName="DIV" content="" elementId="auto-id-2BDkdto32AQR79CV" class="m-tophead f-pr j-tflag">
           <WEBElement  x="1460" y="26" width="28" height="17" tagName="A" content="登录" elementId="" class="link s-fc3">
 
           </WEBElement>
@@ -104,7 +104,7 @@
               <WEBElement  x="1210" y="27" width="122" height="16" tagName="INPUT" content="" elementType="TEXT" elementId="srch" class="txt j-flag">
 
               </WEBElement>
-              <WEBElement  x="1210" y="27" width="115" height="17" tagName="LABEL" content="音乐/视频/电台/用户" elementId="auto-id-cLPvhMqt8CZ59IUr" class="ph j-flag">
+              <WEBElement  x="1210" y="27" width="115" height="17" tagName="LABEL" content="音乐/视频/电台/用户" elementId="auto-id-30Khkngnv7yeuNyZ" class="ph j-flag">
 
               </WEBElement>
 
@@ -138,7 +138,7 @@
 
   </WEBElement>
   <WEBElement  x="0" y="931" width="1920" height="0" tagName="DIV" content="" elementId="" class="g-btmbar">
-    <WEBElement  x="0" y="924" width="1920" height="53" tagName="DIV" content="" elementId="auto-id-VLHELXx4pSUDQFat" class="m-playbar m-playbar-unlock">
+    <WEBElement  x="0" y="924" width="1920" height="53" tagName="DIV" content="" elementId="auto-id-zoPAawTrieslD5Oo" class="m-playbar m-playbar-unlock">
       <WEBElement  x="0" y="924" width="1920" height="0" tagName="DIV" content="" elementId="" class="updn">
         <WEBElement  x="1853" y="910" width="52" height="67" tagName="DIV" content="" elementId="" class="left f-fl">
           <WEBElement  x="1870" y="916" width="18" height="18" tagName="A" content="" elementId="" class="btn">
