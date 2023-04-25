@@ -114,7 +114,7 @@
 })()</script><script async="" src="https://s6.music.126.net/puzzle/puzzle@0002A4.js"></script><script type="text/javascript">
 "1669737600000";
 "1670410800000";
-"1682413322887";
+"1682413998550";
 "false";
 </script>
 <script type="text/javascript">
@@ -406,116 +406,7 @@ window.GDegradeConfig = GDegradeConfig;
 // console.log(window.GDegradeConfig);
 })();
 </script>
-<script type="text/javascript" charset="UTF-8" async="" src="https://acstatic-dun.126.net/2.7.5_af2952a4/watchman.min.js"></script><script type="text/javascript" charset="UTF-8" async="" src="https://acstatic-dun.126.net/2.7.5_af2952a4/watchman.min.js"></script><style>
-      #g_player .play {
-        width: 581px;
-      }
-      #g_player .play .m-pbar,
-      #g_player .play .m-pbar .barbg {
-        width: 466px;
-      }
-      #g_player .oper {
-        width: 87px;
-      }
-      .m-playbar .icn-pip {
-        position: relative;
-        background: url(//p1.music.126.net/DLVi_1eymwAX8gDunfd2bg==/109951165524394991.png) no-repeat 0 0;
-      }
-      .m-playbar .icn-pip:hover,
-      .m-playbar .icn-pip.active {
-        background-position-y: -25px;
-      }
-      .m-playbar .icn-pip video {
-        opacity: 0;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        left: 0;
-      }
-    </style><style>.mrc-modal {
-  position: absolute;
-  z-index: 1000;
-  display: none;
-}
-.mrc-modal-visbh {
-  position: absolute;
-  z-index: 1000;
-  visibility: hidden;
-}
-.mrc-modal-visbs {
-  visibility: visible;
-}
-.mrc-modal-mask {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.65);
-}
-.mrc-modal-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-overflow-scrolling: touch;
-  pointer-events: none;
-}
-.mrc-modal-wrapper.mrc-modal-center {
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-          justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-          align-items: center;
-}
-.mrc-modal-wrapper.mrc-modal-center .mrc-modal-container {
-  position: relative;
-}
-.mrc-modal-container {
-  position: absolute;
-  background: #fff;
-  pointer-events: auto;
-}
-.mrc-modal-container .mrc-header {
-  position: relative;
-}
-.mrc-modal-show {
-  display: block;
-}
-.mrc-modal-enter,
-.mrc-modal-appear {
-  opacity: 0;
-}
-.mrc-modal-enter-active,
-.mrc-modal-appear-active {
-  opacity: 1;
-  -webkit-transition: all 200ms ease-out;
-  transition: all 200ms ease-out;
-}
-.mrc-modal-enter-done,
-.mrc-modal-exit {
-  opacity: 1;
-}
-.mrc-modal-exit-active {
-  opacity: 0;
-  -webkit-transition: all 200ms ease-out;
-  transition: all 200ms ease-out;
-}
-.mrc-modal-parent-overflow-hidden {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  z-index: 1002;
-}
-</style><style type="text/css">/* 还是需要定高点 */
+<style type="text/css">/* 还是需要定高点 */
 /* 中间显示toast */
 .style_CMFrontEncryptedValidator-toast__ERiH2 {
   position: fixed;
@@ -1369,7 +1260,116 @@ window.GDegradeConfig = GDegradeConfig;
 .style_openmask__-YR-t .style_opentip__eS9Ji .style_lay__KFzt8 p {
   font-size: 14px;
 }
-</style></head>
+</style><script type="text/javascript" charset="UTF-8" async="" src="https://acstatic-dun.126.net/2.7.5_af2952a4/watchman.min.js"></script><script type="text/javascript" charset="UTF-8" async="" src="https://acstatic-dun.126.net/2.7.5_af2952a4/watchman.min.js"></script><style>
+      #g_player .play {
+        width: 581px;
+      }
+      #g_player .play .m-pbar,
+      #g_player .play .m-pbar .barbg {
+        width: 466px;
+      }
+      #g_player .oper {
+        width: 87px;
+      }
+      .m-playbar .icn-pip {
+        position: relative;
+        background: url(//p1.music.126.net/DLVi_1eymwAX8gDunfd2bg==/109951165524394991.png) no-repeat 0 0;
+      }
+      .m-playbar .icn-pip:hover,
+      .m-playbar .icn-pip.active {
+        background-position-y: -25px;
+      }
+      .m-playbar .icn-pip video {
+        opacity: 0;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+      }
+    </style><style>.mrc-modal {
+  position: absolute;
+  z-index: 1000;
+  display: none;
+}
+.mrc-modal-visbh {
+  position: absolute;
+  z-index: 1000;
+  visibility: hidden;
+}
+.mrc-modal-visbs {
+  visibility: visible;
+}
+.mrc-modal-mask {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.mrc-modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  pointer-events: none;
+}
+.mrc-modal-wrapper.mrc-modal-center {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.mrc-modal-wrapper.mrc-modal-center .mrc-modal-container {
+  position: relative;
+}
+.mrc-modal-container {
+  position: absolute;
+  background: #fff;
+  pointer-events: auto;
+}
+.mrc-modal-container .mrc-header {
+  position: relative;
+}
+.mrc-modal-show {
+  display: block;
+}
+.mrc-modal-enter,
+.mrc-modal-appear {
+  opacity: 0;
+}
+.mrc-modal-enter-active,
+.mrc-modal-appear-active {
+  opacity: 1;
+  -webkit-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+}
+.mrc-modal-enter-done,
+.mrc-modal-exit {
+  opacity: 1;
+}
+.mrc-modal-exit-active {
+  opacity: 0;
+  -webkit-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+}
+.mrc-modal-parent-overflow-hidden {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1002;
+}
+</style><script type="text/javascript" charset="UTF-8" async="" src="https://acstatic-dun.126.net/2.7.5_af2952a4/watchman.min.js"></script></head>
 <body>
 <div id="g-topbar" class="g-topbar" style="width: 1920px; top: 0px;">
 <div class="m-top">
@@ -1395,7 +1395,7 @@ window.GDegradeConfig = GDegradeConfig;
 <span><a id="topbar-download-link" data-action="bilog" data-log-action="page" data-log-json="{&quot;type&quot;:&quot;downloadapp&quot;,&quot;source&quot;:&quot;tab&quot;}" hidefocus="true" href="/download" data-module="download" class="z-slt"><em>下载客户端</em><sub class="cor"> </sub></a></span><sup class="hot"> </sup>
 </li>
 </ul>
-<div class="m-tophead f-pr j-tflag" id="auto-id-Tyeq2WDDRDrLh6VN"><a hidefocus="true" href="#" class="link s-fc3" data-action="login">登录</a>
+<div class="m-tophead f-pr j-tflag" id="auto-id-Iz3OLtzWqnuHGTym"><a hidefocus="true" href="#" class="link s-fc3" data-action="login">登录</a>
 <div class="m-tlist j-uflag" style="display:none;">
 <div class="inner">
 </div>
@@ -1407,12 +1407,12 @@ window.GDegradeConfig = GDegradeConfig;
 <div class="srchbg">
 <span class="parent">
 <input type="text" name="srch" id="srch" class="txt j-flag" value="" style="opacity: 1;" />
-<label class="ph j-flag" id="auto-id-peMF4N6cHOPEOt3Z">音乐/视频/电台/用户</label>
+<label class="ph j-flag" id="auto-id-0ZDZZAxT6242Bf4q">音乐/视频/电台/用户</label>
 </span>
 </div>
 <div class="j-showoff u-showoff f-hide"><p>现在支持搜索MV啦~</p></div>
-<span class="j-flag" style="display:none;" id="auto-id-1wbfkeCJPKOm8ba2"> </span>
-<div class="u-lstlay j-flag" style="display:none;" id="auto-id-4XlKZVeMmnZXlkrg"></div>
+<span class="j-flag" style="display:none;" id="auto-id-AU2qm5MvNTdqAAPr"> </span>
+<div class="u-lstlay j-flag" style="display:none;" id="auto-id-Uys2ts3c3tKRXshZ"></div>
 </div>
 </div>
 </div>
@@ -1745,7 +1745,7 @@ _onHashChange(_url);
 };
 })();</script>
 <div class="g-btmbar">
-<div class="m-playbar m-playbar-unlock" style="top: -7px; visibility: visible;" id="auto-id-TGqOC04XPCFoPOcR">
+<div class="m-playbar m-playbar-unlock" style="top: -7px; visibility: visible;" id="auto-id-cdTVex3t5IsERJmX">
 <div class="updn">
 <div class="left f-fl"><a href="javascript:;" class="btn" hidefocus="true" data-action="lock"></a></div>
 <div class="right f-fl"></div>
@@ -1762,9 +1762,9 @@ _onHashChange(_url);
 <div class="play">
 <div class="j-flag words"></div>
 <div class="m-pbar" data-action="noop">
-<div class="barbg j-flag" id="auto-id-6g0GEiitqtfOtm7H">
+<div class="barbg j-flag" id="auto-id-VFWg0t54Mn3MT3xz">
 <div class="rdy" style="width:0%;"></div>
-<div class="cur" style="width:0%;"><span class="btn f-tdn f-alpha" id="auto-id-i3axGTQMNeqHV0Bo"><i></i></span></div>
+<div class="cur" style="width:0%;"><span class="btn f-tdn f-alpha" id="auto-id-ALM0xgWsTsZVOSkZ"><i></i></span></div>
 </div>
 <span class="j-flag time"><em>00:00</em> / 00:00</span>
 </div>
@@ -1774,9 +1774,9 @@ _onHashChange(_url);
 <a href="javascript:;" hidefocus="true" data-action="share" class="icn icn-share" title="分享">分享</a>
 </div>
 <div class="ctrl f-fl f-pr j-flag">
-<div class="m-vol" style="visibility:hidden;" id="auto-id-B1JS7HmhQDqDLEGc">
+<div class="m-vol" style="visibility:hidden;" id="auto-id-fManhaVtxIveG9hX">
 <div class="barbg"></div>
-<div class="vbg j-t" id="auto-id-O0maDlJ0BaviCTdC"><div class="curr j-t" style="height: 74.4px;"></div>
+<div class="vbg j-t" id="auto-id-8de6F9s5sFNNyb7O"><div class="curr j-t" style="height: 74.4px;"></div>
 <span class="btn f-alpha j-t" style="top: 16.2px;"></span></div>
 </div>
 <a href="javascript:;" hidefocus="true" data-action="volume" class="icn icn-vol"></a>
@@ -1791,8 +1791,8 @@ _onHashChange(_url);
 </div>
 </div>
 
-<script src="//s3.music.126.net/web/s/core_d11519488432f8d4a908fb03a6f99e6c.js?d11519488432f8d4a908fb03a6f99e6c" type="text/javascript"></script><iframe frameborder="0" id="auto-id-Tkuiyn51IIAK1NTl" style="display: none;" src="about:blank"></iframe><script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script><script src="//s3.music.126.net/web/s/pt_frame_index_84772b21e3da59ea747ad3a55c61f475.js?84772b21e3da59ea747ad3a55c61f475" type="text/javascript"></script><script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script>
-
+<script src="//s3.music.126.net/web/s/core_d11519488432f8d4a908fb03a6f99e6c.js?d11519488432f8d4a908fb03a6f99e6c" type="text/javascript"></script><iframe frameborder="0" id="auto-id-B9SZG4Q3yseKDIP8" style="display: none;" src="about:blank"></iframe><script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script><script src="//s3.music.126.net/web/s/pt_frame_index_84772b21e3da59ea747ad3a55c61f475.js?84772b21e3da59ea747ad3a55c61f475" type="text/javascript"></script><script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script>
+<div id="__mfe_toastospucu"></div><div id="__mfe_modalzluwkc"></div><div class="global_container__fwY3I"></div>
 <script type="text/javascript">
 var _gaq=_gaq||[];
 _gaq.push(['_setAccount','UA-38766552-1'],['_setLocalGifPath','/UA-38766552-1/__utm.gif'],['_setLocalRemoteServerMode']);
@@ -1807,4 +1807,4 @@ Math.max(document.body.clientHeight, document.documentElement.clientHeight)
 top.document.body.style.height = iframeHeight + 20 + 'px';
 }
 </script>
-<script src="https://s5.music.126.net/static_public/60e3bd9a560eba15c26347bb/safeas5.0.1.js"></script><script src="https://s5.music.126.net/static_public/60e3bd9a560eba15c26347bb/safentesid1.0.1.js"></script><div id="__mfe_toasts8jylu"></div><div id="__mfe_modal8ohobz"></div><div class="global_container__fwY3I"></div></body></html>
+<script src="https://s5.music.126.net/static_public/60e3bd9a560eba15c26347bb/safeas5.0.1.js"></script><script src="https://s5.music.126.net/static_public/60e3bd9a560eba15c26347bb/safentesid1.0.1.js"></script><script src="https://acstatic-dun.126.net/tool.min.js"></script></body></html>
