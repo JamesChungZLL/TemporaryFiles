@@ -1,101 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?><WEBElement  x="0" y="0" width="1920" height="931" tagName="BODY" content="" elementId="" currentUrl="https://you.163.com/">
-  <WEBElement  x="0" y="-9761" width="1920" height="176" tagName="DIV" content="" elementId="j-YXComponentTop">
-    <WEBElement  x="0" y="-9761" width="1920" height="36" tagName="DIV" content="" elementId="j-yx-cp-m-top" class="yx-cp-base yx-cp-m-top">
-      <WEBElement  x="0" y="0" width="1920" height="50" tagName="DIV" content="" elementId="" class="yx-cp-m-funcTab j-yx-cp-m-funcTab yx-cp-m-funcTab-fixed">
-        <WEBElement  x="415" y="0" width="1090" height="50" tagName="DIV" content="" elementId="" class="yx-cp-row">
-          <WEBElement  x="420" y="12" width="126" height="30" tagName="A" content="" elementId="" class="yx-cp-tabLogo-fixed yx-cp-funcTab-hide" title="网易严选">
-            <WEBElement  x="420" y="12" width="126" height="30" tagName="I" content="" elementId="" class="yx-cp-icon-yxtop icon-yxtop-miniLogo">
-
-            </WEBElement>
+<?xml version="1.0" encoding="UTF-8"?><WEBElement  x="0" y="0" width="1920" height="931" tagName="BODY" content="" elementId="" currentUrl="https://music.163.com/#/download">
+  <WEBElement  x="0" y="0" width="1920" height="75" tagName="DIV" content="" elementId="g-topbar" class="g-topbar">
+    <WEBElement  x="0" y="0" width="1920" height="70" tagName="DIV" content="" elementId="" class="m-top">
+      <WEBElement  x="410" y="0" width="1100" height="70" tagName="DIV" content="" elementId="" class="wrap f-cb">
+        <WEBElement  x="410" y="0" width="176" height="69" tagName="H1" content="" elementId="" class="logo">
+          <WEBElement  x="410" y="0" width="177" height="69" tagName="A" content="网易云音乐" elementId="">
 
           </WEBElement>
-          <WEBElement  x="1447" y="5" width="34" height="32" tagName="DIV" content="" elementId="" class="yx-cp-m-cartEnterWrap">
-            <WEBElement  x="1447" y="5" width="34" height="32" tagName="DIV" content="" elementId="" class="yx-cp-m-cartEnter">
-              <WEBElement  x="1462" y="4" width="19" height="19" tagName="I" content="0" elementId="" class="j-cart-num j-cart-num2 yx-cp-icon-yxtop icon-yxtop-badge">
 
-              </WEBElement>
-              <WEBElement  x="1447" y="13" width="24" height="24" tagName="I" content="" elementId="" class="yx-cp-icon-yxtop icon-yxtop-cart">
+        </WEBElement>
+        <WEBElement  x="586" y="0" width="508" height="70" tagName="UL" content="" elementId="" class="m-nav j-tflag">
+          <WEBElement  x="586" y="0" width="94" height="70" tagName="LI" content="" elementId="" class="fst">
+            <WEBElement  x="586" y="0" width="94" height="70" tagName="SPAN" content="" elementId="">
+              <WEBElement  x="586" y="0" width="94" height="70" tagName="A" content="" elementId="">
+                <WEBElement  x="605" y="0" width="56" height="70" tagName="EM" content="发现音乐" elementId="">
 
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="1400" y="14" width="20" height="41" tagName="DIV" content="" elementId="" class="yx-cp-fixed-user yx-cp-funcTab-hide">
-            <WEBElement  x="1400" y="14" width="20" height="22" tagName="A" content="" elementId="">
-              <WEBElement  x="1400" y="14" width="20" height="22" tagName="I" content="" elementId="" class="yx-cp-icon-yxtop icon-yxtop-userempty">
+                </WEBElement>
 
               </WEBElement>
 
             </WEBElement>
 
           </WEBElement>
-          <WEBElement  x="541" y="11" width="838" height="30" tagName="UL" content="" elementId="" class="yx-cp-m-tabNav">
-            <WEBElement  x="553" y="18" width="54" height="32" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item yx-cp-active yx-cp-firstItem">
-              <WEBElement  x="566" y="18" width="28" height="32" tagName="A" content="首页" elementId="" class="yx-cp-topLevel" title="首页">
+          <WEBElement  x="680" y="0" width="94" height="70" tagName="LI" content="" elementId="">
+            <WEBElement  x="680" y="0" width="94" height="70" tagName="SPAN" content="" elementId="">
+              <WEBElement  x="680" y="0" width="94" height="70" tagName="A" content="" elementId="">
+                <WEBElement  x="699" y="0" width="56" height="70" tagName="EM" content="我的音乐" elementId="">
 
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="607" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="620" y="18" width="56" height="29" tagName="A" content="居家生活" elementId="" class="yx-cp-topLevel" title="居家生活">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="689" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="702" y="18" width="56" height="29" tagName="A" content="宠物生活" elementId="" class="yx-cp-topLevel" title="宠物生活">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="771" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="784" y="18" width="56" height="29" tagName="A" content="服饰鞋包" elementId="" class="yx-cp-topLevel" title="服饰鞋包">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="853" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="866" y="18" width="56" height="29" tagName="A" content="美食酒水" elementId="" class="yx-cp-topLevel" title="美食酒水">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="935" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="948" y="18" width="56" height="29" tagName="A" content="个护清洁" elementId="" class="yx-cp-topLevel" title="个护清洁">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="1017" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="1030" y="18" width="56" height="29" tagName="A" content="母婴亲子" elementId="" class="yx-cp-topLevel" title="母婴亲子">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="1099" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="1112" y="18" width="56" height="29" tagName="A" content="运动旅行" elementId="" class="yx-cp-topLevel" title="运动旅行">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="1181" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="1194" y="18" width="56" height="29" tagName="A" content="数码家电" elementId="" class="yx-cp-topLevel" title="数码家电">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="1263" y="18" width="82" height="29" tagName="LI" content="" elementId="" class="yx-cp-tabNav-item">
-              <WEBElement  x="1276" y="18" width="56" height="29" tagName="A" content="严选全球" elementId="" class="yx-cp-topLevel" title="严选全球">
+                </WEBElement>
 
               </WEBElement>
 
             </WEBElement>
 
           </WEBElement>
-          <WEBElement  x="1347" y="16" width="20" height="36" tagName="DIV" content="" elementId="" class="yx-cp-m-search yx-cp-zIndex3">
-            <WEBElement  x="1347" y="16" width="20" height="20" tagName="DIV" content="" elementId="" class="yx-cp-searchButton">
-              <WEBElement  x="1347" y="16" width="20" height="20" tagName="I" content="" elementId="" class="yx-cp-icon-yxtop icon-yxtop-search">
+          <WEBElement  x="774" y="0" width="66" height="70" tagName="LI" content="" elementId="">
+            <WEBElement  x="774" y="0" width="66" height="70" tagName="SPAN" content="" elementId="">
+              <WEBElement  x="774" y="0" width="66" height="70" tagName="A" content="" elementId="">
+                <WEBElement  x="793" y="0" width="28" height="70" tagName="EM" content="关注" elementId="">
+
+                </WEBElement>
+
+              </WEBElement>
+
+            </WEBElement>
+
+          </WEBElement>
+          <WEBElement  x="840" y="0" width="66" height="70" tagName="LI" content="" elementId="">
+            <WEBElement  x="840" y="0" width="66" height="70" tagName="SPAN" content="" elementId="">
+              <WEBElement  x="840" y="0" width="66" height="70" tagName="A" content="" elementId="">
+                <WEBElement  x="859" y="0" width="28" height="70" tagName="EM" content="商城" elementId="">
+
+                </WEBElement>
+
+              </WEBElement>
+
+            </WEBElement>
+
+          </WEBElement>
+          <WEBElement  x="906" y="0" width="80" height="70" tagName="LI" content="" elementId="">
+            <WEBElement  x="906" y="0" width="80" height="70" tagName="SPAN" content="" elementId="">
+              <WEBElement  x="906" y="0" width="80" height="70" tagName="A" content="" elementId="">
+                <WEBElement  x="925" y="0" width="42" height="70" tagName="EM" content="音乐人" elementId="">
+
+                </WEBElement>
+
+              </WEBElement>
+
+            </WEBElement>
+
+          </WEBElement>
+          <WEBElement  x="986" y="0" width="108" height="70" tagName="LI" content="" elementId="" class="lst">
+            <WEBElement  x="986" y="0" width="108" height="70" tagName="SPAN" content="" elementId="">
+              <WEBElement  x="986" y="0" width="108" height="70" tagName="A" content="" elementId="topbar-download-link" class="z-slt">
+                <WEBElement  x="1005" y="0" width="70" height="70" tagName="EM" content="下载客户端" elementId="">
+
+                </WEBElement>
+                <WEBElement  x="1034" y="64" width="12" height="7" tagName="SUB" content="" elementId="" class="cor">
+
+                </WEBElement>
+
+              </WEBElement>
+
+            </WEBElement>
+            <WEBElement  x="1086" y="21" width="28" height="19" tagName="SUP" content="" elementId="" class="hot">
+
+            </WEBElement>
+
+          </WEBElement>
+
+        </WEBElement>
+        <WEBElement  x="1460" y="19" width="50" height="45" tagName="DIV" content="" elementId="auto-id-e9JN0LlqddklnlEy" class="m-tophead f-pr j-tflag">
+          <WEBElement  x="1460" y="26" width="28" height="17" tagName="A" content="登录" elementId="" class="link s-fc3">
+
+          </WEBElement>
+
+        </WEBElement>
+        <WEBElement  x="1350" y="19" width="90" height="32" tagName="A" content="创作者中心" elementId="" class="m-topvd f-pr m-creator-center">
+
+        </WEBElement>
+        <WEBElement  x="1180" y="0" width="158" height="32" tagName="DIV" content="" elementId="g_search" class="m-srch f-pr j-suggest">
+          <WEBElement  x="1180" y="19" width="158" height="32" tagName="DIV" content="" elementId="" class="srchbg">
+            <WEBElement  x="1210" y="27" width="128" height="16" tagName="SPAN" content="" elementId="" class="parent">
+              <WEBElement  x="1210" y="27" width="122" height="16" tagName="INPUT" content="" elementType="TEXT" elementId="srch" class="txt j-flag">
+
+              </WEBElement>
+              <WEBElement  x="1210" y="27" width="115" height="17" tagName="LABEL" content="音乐/视频/电台/用户" elementId="auto-id-8t0mWpMTWdBO8qda" class="ph j-flag">
 
               </WEBElement>
 
@@ -108,819 +117,63 @@
       </WEBElement>
 
     </WEBElement>
+    <WEBElement  x="0" y="70" width="1920" height="5" tagName="DIV" content="" elementId="" class="m-subnav m-subnav-up f-pr j-tflag">
+
+    </WEBElement>
 
   </WEBElement>
-  <WEBElement  x="0" y="-9585" width="1920" height="10027" tagName="DIV" content="" elementId="" class="g-bd">
-    <WEBElement  x="0" y="-9585" width="1920" height="10027" tagName="DIV" content="" elementId="indexRoot">
-      <WEBElement  x="0" y="-9585" width="1920" height="10027" tagName="DIV" content="" elementId="" class="m-app">
-        <WEBElement  x="0" y="-218" width="1920" height="660" tagName="DIV" content="" elementId="" class="m-indexComment indexComment">
-          <WEBElement  x="415" y="-158" width="1090" height="540" tagName="DIV" content="" elementId="" class="g-row">
-            <WEBElement  x="415" y="-110" width="1090" height="492" tagName="DIV" content="" elementId="" class="bd slickWidth">
-              <WEBElement  x="415" y="-110" width="1090" height="492" tagName="UL" content="" elementId="" class="itemList">
-                <WEBElement  x="415" y="-110" width="1100" height="492" tagName="DIV" content="" elementId="js-CommentSlick" class="js-CommentSlick commentSlick slick-initialized slick-slider">
-                  <WEBElement  x="355" y="42" width="50" height="50" tagName="BUTTON" content="" elementId="" class="slick-prev icon-normal-slick-leftRound w-icon-normal slick-arrow">
-
-                  </WEBElement>
-                  <WEBElement  x="415" y="-110" width="1100" height="492" tagName="DIV" content="" elementId="" class="slick-list draggable">
-                    <WEBElement  x="-1420" y="-110" width="7340" height="492" tagName="DIV" content="" elementId="" class="slick-track">
-                      <WEBElement  x="-319" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide">
-                        <WEBElement  x="-319" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="-319" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="-319" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="多种体验，暧昧升级，春风风情避孕套">
-                              <WEBElement  x="-319" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="-319" y="-110" width="355" height="355" tagName="IMG" content="多种体验，暧昧升级，春风风情避孕套" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="-314" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="-314" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="-299" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-
-                              </WEBElement>
-                              <WEBElement  x="-299" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="-31" y="241" width="32" height="25" tagName="SPAN" content="" elementId="" class="price">
-                                  <WEBElement  x="-24" y="242" width="25" height="13" tagName="SPAN" content="14.9" elementId="">
-
-                                  </WEBElement>
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="-299" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="-299" y="282" width="315" height="20" tagName="P" content="价钱便宜划算！小件包装也完美！不错！很细节😍" elementId="">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-                      <WEBElement  x="48" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide">
-                        <WEBElement  x="48" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="48" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="48" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="智能互动新体验，春风元系列旋转伸缩飞机杯">
-                              <WEBElement  x="48" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="48" y="-110" width="355" height="355" tagName="IMG" content="智能互动新体验，春风元系列旋转伸缩飞机杯" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="53" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="53" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="68" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-                                <WEBElement  x="68" y="215" width="38" height="14" tagName="SPAN" content="晴****" elementId="" class="frontname">
-
-                                </WEBElement>
-                                <WEBElement  x="106" y="215" width="112" height="13" tagName="SPAN" content="2023-04-1411:50" elementId="" class="date">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="68" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="68" y="241" width="190" height="16" tagName="SPAN" content="智能互动新体验，春风元系列旋转伸缩飞机杯" elementId="" class="pname" title="智能互动新体验，春风元系列旋转伸缩飞机杯">
-
-                                </WEBElement>
-                                <WEBElement  x="332" y="241" width="36" height="25" tagName="SPAN" content="" elementId="" class="price">
-                                  <WEBElement  x="332" y="242" width="7" height="13" tagName="SPAN" content="" elementId="">
-
-                                  </WEBElement>
-                                  <WEBElement  x="339" y="242" width="29" height="13" tagName="SPAN" content="1099" elementId="">
-
-                                  </WEBElement>
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="68" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="68" y="282" width="315" height="80" tagName="P" content="说说使用感受吧！顶不住...完全顶不住...我仿佛对速度有了新的认知..最慢的速度上下旋转一起开坚持不了5分钟..润滑液玉环最粘稠，三个杯感觉吧...妲己最没特点，" elementId="">
-
-                                </WEBElement>
-                                <WEBElement  x="369" y="346" width="14" height="16" tagName="S" content="" elementId="" class="more">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-                      <WEBElement  x="415" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide slick-current slick-active">
-                        <WEBElement  x="415" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="415" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="415" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="革新逼真体验，春风黑洞Pro电动伸缩飞机杯">
-                              <WEBElement  x="415" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="415" y="-110" width="355" height="355" tagName="IMG" content="革新逼真体验，春风黑洞Pro电动伸缩飞机杯" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="420" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="420" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="435" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-                                <WEBElement  x="435" y="215" width="46" height="14" tagName="SPAN" content="用****1" elementId="" class="frontname">
-
-                                </WEBElement>
-                                <WEBElement  x="481" y="215" width="112" height="13" tagName="SPAN" content="2023-04-1321:38" elementId="" class="date">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="435" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="435" y="241" width="190" height="16" tagName="SPAN" content="革新逼真体验，春风黑洞Pro电动伸缩飞机杯" elementId="" class="pname" title="革新逼真体验，春风黑洞Pro电动伸缩飞机杯">
-
-                                </WEBElement>
-                                <WEBElement  x="706" y="241" width="29" height="25" tagName="SPAN" content="" elementId="" class="price">
-                                  <WEBElement  x="706" y="242" width="7" height="13" tagName="SPAN" content="" elementId="">
-
-                                  </WEBElement>
-                                  <WEBElement  x="713" y="242" width="22" height="13" tagName="SPAN" content="649" elementId="">
-
-                                  </WEBElement>
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="435" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="435" y="282" width="315" height="80" tagName="P" content="超赞，操作简单，既能自动加热，又能烘干，吸力很猛，有15个挡位，外观也好看，内胆拆卸组装很方便。声音也小，和风扇声量差不多。总之购买非常值，入手准没错。" elementId="">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-                      <WEBElement  x="782" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide slick-active">
-                        <WEBElement  x="782" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="782" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="782" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="Camp!ng°户外露营野餐多功能折叠推车">
-                              <WEBElement  x="782" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="782" y="-110" width="355" height="355" tagName="IMG" content="Camp!ng°户外露营野餐多功能折叠推车" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="787" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="787" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="802" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-                                <WEBElement  x="802" y="215" width="46" height="14" tagName="SPAN" content="用****0" elementId="" class="frontname">
-
-                                </WEBElement>
-                                <WEBElement  x="848" y="215" width="112" height="13" tagName="SPAN" content="2023-04-1316:42" elementId="" class="date">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="802" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="802" y="241" width="190" height="16" tagName="SPAN" content="Camp!ng°户外露营野餐多功能折叠推车" elementId="" class="pname" title="Camp!ng°户外露营野餐多功能折叠推车">
-
-                                </WEBElement>
-                                <WEBElement  x="1073" y="241" width="29" height="25" tagName="SPAN" content="" elementId="" class="price">
-                                  <WEBElement  x="1073" y="242" width="7" height="13" tagName="SPAN" content="" elementId="">
-
-                                  </WEBElement>
-                                  <WEBElement  x="1080" y="242" width="22" height="13" tagName="SPAN" content="599" elementId="">
-
-                                  </WEBElement>
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="802" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="802" y="282" width="315" height="80" tagName="P" content="网易严选值得信赖，发货速度快，周年庆活动价格入手非常划算，口罩散去，正是出门游玩的好时光，再也不用大包小包的背着了，孩子也可以歇脚了。外观简约时尚，强度高，刚度硬。值得拥" elementId="">
-
-                                </WEBElement>
-                                <WEBElement  x="1103" y="346" width="14" height="16" tagName="S" content="" elementId="" class="more">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-                      <WEBElement  x="1149" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide slick-active">
-                        <WEBElement  x="1149" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="1149" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="1149" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="为爱加时，春风996延时喷剂/湿巾">
-                              <WEBElement  x="1149" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="1149" y="-110" width="355" height="355" tagName="IMG" content="为爱加时，春风996延时喷剂/湿巾" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="1154" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="1154" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="1169" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-                                <WEBElement  x="1169" y="215" width="37" height="14" tagName="SPAN" content="D****l" elementId="" class="frontname">
-
-                                </WEBElement>
-                                <WEBElement  x="1206" y="215" width="112" height="13" tagName="SPAN" content="2023-04-1209:42" elementId="" class="date">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="1169" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="1169" y="241" width="190" height="16" tagName="SPAN" content="为爱加时，春风996延时喷剂/湿巾" elementId="" class="pname" title="为爱加时，春风996延时喷剂/湿巾">
-
-                                </WEBElement>
-                                <WEBElement  x="1440" y="241" width="29" height="25" tagName="SPAN" content="" elementId="" class="price">
-                                  <WEBElement  x="1440" y="242" width="7" height="13" tagName="SPAN" content="" elementId="">
-
-                                  </WEBElement>
-                                  <WEBElement  x="1447" y="242" width="22" height="13" tagName="SPAN" content="149" elementId="">
-
-                                  </WEBElement>
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="1169" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="1169" y="282" width="315" height="40" tagName="P" content="真的是太牛了，喷完半小时后自己去体会一下什么叫累。" elementId="">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-                      <WEBElement  x="1516" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide">
-                        <WEBElement  x="1516" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="1516" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="1516" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="销魂魔力春风魂系列黑洞伸缩飞机杯">
-                              <WEBElement  x="1516" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="1516" y="-110" width="355" height="355" tagName="IMG" content="销魂魔力春风魂系列黑洞伸缩飞机杯" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="1521" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="1521" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="1536" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-                                <WEBElement  x="1536" y="215" width="46" height="14" tagName="SPAN" content="用****3" elementId="" class="frontname">
-
-                                </WEBElement>
-                                <WEBElement  x="1582" y="215" width="112" height="13" tagName="SPAN" content="2023-04-0912:56" elementId="" class="date">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="1536" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="1536" y="241" width="190" height="16" tagName="SPAN" content="销魂魔力春风魂系列黑洞伸缩飞机杯" elementId="" class="pname" title="销魂魔力春风魂系列黑洞伸缩飞机杯">
-
-                                </WEBElement>
-                                <WEBElement  x="1807" y="241" width="29" height="25" tagName="SPAN" content="" elementId="" class="price">
-                                  <WEBElement  x="1807" y="242" width="7" height="13" tagName="SPAN" content="" elementId="">
-
-                                  </WEBElement>
-                                  <WEBElement  x="1814" y="242" width="22" height="13" tagName="SPAN" content="499" elementId="">
-
-                                  </WEBElement>
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="1536" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="1536" y="282" width="315" height="80" tagName="P" content="第一次购买✈️杯，本来以为不会使用，没想到这款操作非常“傻瓜”，一个按钮换挡，一个按钮启动、关闭、加减速，非常简单，比👋好玩多了，嘿嘿，刺激刺激，连玩几天人都虚了，不过" elementId="">
-
-                                </WEBElement>
-                                <WEBElement  x="1837" y="346" width="14" height="16" tagName="S" content="" elementId="" class="more">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-                      <WEBElement  x="1883" y="-110" width="367" height="492" tagName="LI" content="" elementId="" class="item slick-slide">
-                        <WEBElement  x="1883" y="-110" width="355" height="492" tagName="DIV" content="" elementId="" class="m-product">
-                          <WEBElement  x="1883" y="-110" width="355" height="355" tagName="DIV" content="" elementId="" class="hd">
-                            <WEBElement  x="1883" y="-110" width="355" height="355" tagName="A" content="" elementId="" title="99.9%除菌，清新去味香氛空调清洗剂500ml">
-                              <WEBElement  x="1883" y="-110" width="355" height="355" tagName="DIV" content="" elementId="">
-                                <WEBElement  x="1883" y="-110" width="355" height="355" tagName="IMG" content="99.9%除菌，清新去味香氛空调清洗剂500ml" elementId="" class="img img-lazyload img-lazyloaded">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-                          <WEBElement  x="1888" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="bd bd_comment">
-                            <WEBElement  x="1888" y="195" width="345" height="187" tagName="DIV" content="" elementId="" class="m-comment">
-                              <WEBElement  x="1903" y="215" width="315" height="14" tagName="DIV" content="" elementId="" class="bd _top">
-                                <WEBElement  x="1903" y="215" width="40" height="14" tagName="SPAN" content="m****l" elementId="" class="frontname">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="1903" y="241" width="315" height="25" tagName="DIV" content="" elementId="" class="bd _middle">
-                                <WEBElement  x="1903" y="241" width="190" height="16" tagName="SPAN" content="99.9%除菌，清新去味香氛空调清洗剂500ml" elementId="" class="pname" title="99.9%除菌，清新去味香氛空调清洗剂500ml">
-
-                                </WEBElement>
-
-                              </WEBElement>
-                              <WEBElement  x="1903" y="282" width="315" height="80" tagName="DIV" content="" elementId="" class="comment-content">
-                                <WEBElement  x="1903" y="282" width="315" height="60" tagName="P" content="比我之前用过的清洁效果都要好，泡沫喷出来很绵密不会滴得到处都是，还贴心送了集水袋。味道非常好闻，跟瓶子设计一样很清新" elementId="">
-
-                                </WEBElement>
-
-                              </WEBElement>
-
-                            </WEBElement>
-
-                          </WEBElement>
-
-                        </WEBElement>
-
-                      </WEBElement>
-
-                    </WEBElement>
-
-                  </WEBElement>
-                  <WEBElement  x="1515" y="42" width="50" height="50" tagName="BUTTON" content="" elementId="" class="slick-next icon-normal-slick-rightRound w-icon-normal slick-arrow">
-
-                  </WEBElement>
-
-                </WEBElement>
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-
-        </WEBElement>
-        <WEBElement  x="0" y="811" width="1920" height="120" tagName="DIV" content="" elementId="" class="m-appDownloadGuide">
-          <WEBElement  x="0" y="826" width="1920" height="90" tagName="A" content="" elementId="">
-            <WEBElement  x="415" y="826" width="1090" height="90" tagName="DIV" content="" elementId="" class="guideContent f-pr">
-              <WEBElement  x="1494" y="815" width="22" height="22" tagName="I" content="" elementId="" class="w-icon-close close-close-circle-22 f-pa">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-
-        </WEBElement>
-        <WEBElement  x="280" y="62" width="110" height="364" tagName="UL" content="" elementId="" class="m-indexSideBar fixed">
-          <WEBElement  x="281" y="63" width="108" height="38" tagName="LI" content="热销榜" elementId="" class="item firstItem">
-
-          </WEBElement>
-          <WEBElement  x="281" y="101" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="103" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="102" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="107" width="24" height="12" tagName="TN" content="全站" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="121" width="36" height="12" tagName="TN" content="热销榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="137" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="139" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="138" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="143" width="24" height="12" tagName="TN" content="居家" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="157" width="36" height="12" tagName="TN" content="生活榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="173" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="175" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="174" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="179" width="24" height="12" tagName="TN" content="服饰" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="193" width="36" height="12" tagName="TN" content="鞋包榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="209" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="211" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="210" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="215" width="24" height="12" tagName="TN" content="美食" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="229" width="36" height="12" tagName="TN" content="酒水榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="245" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="247" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="246" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="251" width="24" height="12" tagName="TN" content="数码" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="265" width="36" height="12" tagName="TN" content="家电榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="281" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="283" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="282" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="287" width="24" height="12" tagName="TN" content="个护" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="301" width="36" height="12" tagName="TN" content="清洁榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="317" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="319" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="318" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="323" width="24" height="12" tagName="TN" content="运动" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="337" width="36" height="12" tagName="TN" content="旅行榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="353" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="355" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="354" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="359" width="24" height="12" tagName="TN" content="母婴" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="373" width="36" height="12" tagName="TN" content="亲子榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="281" y="389" width="108" height="36" tagName="LI" content="" elementId="" class="item">
-            <WEBElement  x="293" y="391" width="30" height="30" tagName="IMG" content="" elementId="" class="sideIcon">
-
-            </WEBElement>
-            <WEBElement  x="292" y="390" width="86" height="35" tagName="SPAN" content="" elementId="" class="name">
-              <WEBElement  x="328" y="395" width="24" height="12" tagName="TN" content="全球" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="328" y="409" width="36" height="12" tagName="TN" content="特色榜" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-
-        </WEBElement>
+  <WEBElement  x="0" y="0" width="1920" height="931" tagName="IFRAME" content="" elementId="g_iframe" class="g-iframe">
+    <WEBElement  x="0" y="0" width="1920" height="70" tagName="DIV" content="" elementId="g_top" class="m-top">
+
+    </WEBElement>
+    <WEBElement  x="0" y="70" width="1920" height="5" tagName="DIV" content="" elementId="g_nav" class="m-subnav m-subnav-up f-pr">
+
+    </WEBElement>
+    <WEBElement  x="0" y="75" width="1920" height="931" tagName="DIV" content="" elementId="viewDiv">
+      <WEBElement  x="0" y="75" width="1920" height="931" tagName="OBJECT" content="" elementId="">
 
       </WEBElement>
 
     </WEBElement>
 
   </WEBElement>
-  <WEBElement  x="0" y="442" width="1920" height="549" tagName="DIV" content="" elementId="j-YXComponentFoot">
-    <WEBElement  x="0" y="442" width="1920" height="629" tagName="DIV" content="" elementId="" class="yx-cp-m-foot yx-cp-base">
-      <WEBElement  x="0" y="442" width="1920" height="299" tagName="DIV" content="" elementId="" class="yx-cp-m-ft1">
-        <WEBElement  x="415" y="503" width="1090" height="204" tagName="DIV" content="" elementId="" class="yx-cp-row">
-          <WEBElement  x="415" y="503" width="363" height="204" tagName="DIV" content="" elementId="" class="yx-cp-item">
-            <WEBElement  x="415" y="503" width="363" height="144" tagName="DIV" content="" elementId="" class="yx-cp-m-serviceTel">
-              <WEBElement  x="415" y="503" width="363" height="16" tagName="H4" content="客户服务" elementId="" class="yx-cp-hd">
-
-              </WEBElement>
-              <WEBElement  x="502" y="547" width="80" height="100" tagName="A" content="" elementId="" class="yx-w-button yx-cp-btn yx-cp-kefuBtn">
-                <WEBElement  x="527" y="573" width="31" height="26" tagName="I" content="" elementId="" class="yx-cp-icon-yxfoot icon-yxfoot-service">
-
-                </WEBElement>
-                <WEBElement  x="503" y="609" width="78" height="26" tagName="DIV" content="在线客服" elementId="" class="yx-f-margin-top-10">
-
-                </WEBElement>
-
-              </WEBElement>
-              <WEBElement  x="611" y="547" width="80" height="100" tagName="A" content="" elementId="" class="yx-w-button yx-cp-btn yx-cp-feedbackBtn">
-                <WEBElement  x="636" y="573" width="30" height="27" tagName="I" content="" elementId="" class="yx-cp-icon-yxfoot icon-yxfoot-feedback">
-
-                </WEBElement>
-                <WEBElement  x="612" y="610" width="78" height="26" tagName="DIV" content="用户反馈" elementId="" class="yx-f-margin-top-10">
-
-                </WEBElement>
-
-              </WEBElement>
-
-            </WEBElement>
+  <WEBElement  x="0" y="931" width="1920" height="0" tagName="DIV" content="" elementId="" class="g-btmbar">
+    <WEBElement  x="0" y="924" width="1920" height="53" tagName="DIV" content="" elementId="auto-id-QLnKt00dVyCwMLOD" class="m-playbar m-playbar-unlock">
+      <WEBElement  x="0" y="924" width="1920" height="0" tagName="DIV" content="" elementId="" class="updn">
+        <WEBElement  x="1853" y="910" width="52" height="67" tagName="DIV" content="" elementId="" class="left f-fl">
+          <WEBElement  x="1870" y="916" width="18" height="18" tagName="A" content="" elementId="" class="btn">
 
           </WEBElement>
-          <WEBElement  x="778" y="503" width="363" height="204" tagName="DIV" content="" elementId="" class="yx-cp-item">
-            <WEBElement  x="779" y="503" width="362" height="152" tagName="DIV" content="" elementId="" class="yx-cp-m-whatIsYX">
-              <WEBElement  x="816" y="503" width="288" height="16" tagName="H4" content="何为网易严选" elementId="" class="yx-cp-hd">
 
-              </WEBElement>
-              <WEBElement  x="816" y="547" width="288" height="108" tagName="P" content="网易严选是深受新中产喜爱的生活方式品牌,为消费者提供一站式、全品类、全方位的美好生活解决方案。我们通过简约、实用、舒适的美学设计,不断带来高品质灵感好物,陪伴3000万新中产用户「活出自己喜欢的样子」,共同倡导多元化的生活价值主张——每个人都可以把生活的选择权交还给自己。" elementId="" class="yx-cp-desc">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="779" y="677" width="362" height="42" tagName="DIV" content="" elementId="" class="yx-cp-m-followUs">
-              <WEBElement  x="816" y="677" width="63" height="32" tagName="P" content="关注我们:" elementId="" class="yx-cp-title">
-
-              </WEBElement>
-              <WEBElement  x="895" y="677" width="141" height="42" tagName="DIV" content="" elementId="" class="yx-cp-followWayList">
-                <WEBElement  x="895" y="677" width="32" height="42" tagName="A" content="" elementId="" class="yx-cp-followWay yx-f-left">
-                  <WEBElement  x="895" y="677" width="32" height="32" tagName="I" content="" elementId="" class="yx-cp-icon-yxfoot icon-yxfoot-wb">
-
-                  </WEBElement>
-
-                </WEBElement>
-                <WEBElement  x="942" y="677" width="32" height="42" tagName="DIV" content="" elementId="" class="yx-cp-followWay yx-f-left j-yx-cp-lazyImg">
-                  <WEBElement  x="942" y="677" width="32" height="32" tagName="I" content="" elementId="" class="yx-cp-icon-yxfoot icon-yxfoot-wx">
-
-                  </WEBElement>
-
-                </WEBElement>
-                <WEBElement  x="989" y="677" width="32" height="42" tagName="DIV" content="" elementId="" class="yx-cp-followWay yx-f-left j-yx-cp-lazyImg">
-                  <WEBElement  x="989" y="677" width="32" height="32" tagName="I" content="" elementId="" class="yx-cp-icon-yxfoot icon-yxfoot-yx">
-
-                  </WEBElement>
-
-                </WEBElement>
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="1142" y="503" width="363" height="204" tagName="DIV" content="" elementId="" class="yx-cp-item">
-            <WEBElement  x="1143" y="503" width="362" height="174" tagName="DIV" content="" elementId="" class="yx-cp-m-ftAppDownload">
-              <WEBElement  x="1143" y="503" width="362" height="16" tagName="H4" content="扫码下载严选APP" elementId="" class="yx-cp-hd">
-
-              </WEBElement>
-              <WEBElement  x="1272" y="547" width="104" height="104" tagName="DIV" content="" elementId="" class="j-yx-cp-footQRcode yx-cp-footQRcode">
-                <WEBElement  x="1272" y="547" width="104" height="104" tagName="CANVAS" content="" elementId="">
-
-                </WEBElement>
-
-              </WEBElement>
-              <WEBElement  x="1143" y="659" width="362" height="18" tagName="DIV" content="下载领大额新人红包" elementId="" class="yx-cp-tip">
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
+        </WEBElement>
+        <WEBElement  x="1905" y="923" width="15" height="54" tagName="DIV" content="" elementId="" class="right f-fl">
 
         </WEBElement>
 
       </WEBElement>
-      <WEBElement  x="0" y="741" width="1920" height="330" tagName="DIV" content="" elementId="" class="yx-cp-m-ft2">
-        <WEBElement  x="415" y="778" width="1090" height="285" tagName="DIV" content="" elementId="" class="yx-cp-row">
-          <WEBElement  x="415" y="778" width="1090" height="51" tagName="UL" content="" elementId="" class="yx-cp-m-siteEnsure">
-            <WEBElement  x="432" y="778" width="175" height="51" tagName="LI" content="" elementId="" class="yx-cp-item yx-cp-item-1">
-              <WEBElement  x="432" y="778" width="175" height="51" tagName="DIV" content="" elementId="" class="yx-cp-inner">
-                <WEBElement  x="432" y="778" width="50" height="50" tagName="I" content="" elementId="" class="yx-cp-icon yx-cp-icon-yxfoot icon-yxfoot-netease">
+      <WEBElement  x="0" y="924" width="1853" height="53" tagName="DIV" content="" elementId="" class="bg">
 
-                </WEBElement>
-                <WEBElement  x="499" y="778" width="108" height="51" tagName="P" content="网易自营电商" elementId="" class="yx-cp-text">
+      </WEBElement>
+      <WEBElement  x="0" y="914" width="1920" height="20" tagName="DIV" content="" elementId="" class="hand" title="展开播放条">
 
-                </WEBElement>
+      </WEBElement>
+      <WEBElement  x="470" y="930" width="980" height="47" tagName="DIV" content="" elementId="g_player" class="wrap">
+        <WEBElement  x="470" y="930" width="137" height="42" tagName="DIV" content="" elementId="" class="btns">
 
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="729" y="778" width="196" height="51" tagName="LI" content="" elementId="" class="yx-cp-item yx-cp-item-2">
-              <WEBElement  x="729" y="778" width="196" height="51" tagName="A" content="" elementId="" class="yx-cp-inner">
-                <WEBElement  x="729" y="778" width="51" height="50" tagName="I" content="" elementId="" class="yx-cp-icon yx-cp-icon-yxfoot icon-yxfoot-wuyou">
-
-                </WEBElement>
-                <WEBElement  x="797" y="778" width="128" height="51" tagName="P" content="30天无忧退换货" elementId="" class="yx-cp-text">
-
-                </WEBElement>
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="1047" y="778" width="178" height="51" tagName="LI" content="" elementId="" class="yx-cp-item yx-cp-item-3">
-              <WEBElement  x="1047" y="778" width="178" height="51" tagName="DIV" content="" elementId="" class="yx-cp-inner">
-                <WEBElement  x="1047" y="778" width="51" height="50" tagName="I" content="" elementId="" class="yx-cp-icon yx-cp-icon-yxfoot icon-yxfoot-baoyou">
-
-                </WEBElement>
-                <WEBElement  x="1115" y="794" width="110" height="18" tagName="SPAN" content="满99元免邮费" elementId="">
-
-                </WEBElement>
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="1347" y="778" width="139" height="51" tagName="LI" content="" elementId="" class="yx-cp-item yx-cp-item-4">
-              <WEBElement  x="1347" y="778" width="139" height="51" tagName="DIV" content="" elementId="" class="yx-cp-inner">
-                <WEBElement  x="1347" y="778" width="50" height="50" tagName="I" content="" elementId="" class="yx-cp-icon yx-cp-icon-yxfoot icon-yxfoot-quality">
-
-                </WEBElement>
-                <WEBElement  x="1414" y="794" width="72" height="18" tagName="SPAN" content="品质保证" elementId="">
-
-                </WEBElement>
-
-              </WEBElement>
-
-            </WEBElement>
-
-          </WEBElement>
-          <WEBElement  x="415" y="859" width="1090" height="1" tagName="DIV" content="" elementId="" class="yx-cp-hr">
-
-          </WEBElement>
-          <WEBElement  x="415" y="887" width="1090" height="176" tagName="DIV" content="" elementId="" class="yx-cp-m-siteInfo">
-            <WEBElement  x="415" y="887" width="1090" height="18" tagName="DIV" content="" elementId="" class="yx-cp-nav">
-              <WEBElement  x="561" y="890" width="48" height="12" tagName="A" content="关于我们" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="643" y="890" width="48" height="12" tagName="A" content="帮助中心" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="725" y="890" width="48" height="12" tagName="A" content="售后服务" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="807" y="890" width="60" height="12" tagName="A" content="配送与验收" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="901" y="890" width="48" height="12" tagName="A" content="商务合作" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="983" y="890" width="48" height="12" tagName="A" content="企业采购" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="1065" y="890" width="48" height="12" tagName="A" content="开放平台" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="1147" y="890" width="48" height="12" tagName="A" content="搜索推荐" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="1229" y="890" width="48" height="12" tagName="A" content="友情链接" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-              <WEBElement  x="1311" y="890" width="48" height="12" tagName="A" content="廉正举报" elementId="" class="yx-cp-text">
-
-              </WEBElement>
-
-            </WEBElement>
-            <WEBElement  x="415" y="916" width="1090" height="18" tagName="P" content="" elementId="" class="yx-cp-copyright">
-              <WEBElement  x="419" y="919" width="202" height="12" tagName="A" content="食品经营许可证：JY13301080111719" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="636" y="919" width="219" height="12" tagName="A" content="出版物经营许可证：新出发滨字第0132号" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="869" y="919" width="197" height="12" tagName="SPAN" content="妙得ICP证号：ICP证浙B2-20160106" elementId="" class="yx-cp-cr-text">
-
-              </WEBElement>
-              <WEBElement  x="1081" y="919" width="173" height="12" tagName="A" content="浙杭食药监械经营备20171029号" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="1269" y="919" width="48" height="12" tagName="A" content="营业执照" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="1332" y="919" width="143" height="12" tagName="SPAN" content="网易公司版权所有©1997-" elementId="">
-
-              </WEBElement>
-              <WEBElement  x="1475" y="919" width="27" height="12" tagName="SPAN" content="2023" elementId="">
-
-              </WEBElement>
-
-            </WEBElement>
+        </WEBElement>
+        <WEBElement  x="656" y="930" width="581" height="37" tagName="DIV" content="" elementId="" class="play">
+          <WEBElement  x="656" y="930" width="581" height="28" tagName="DIV" content="" elementId="" class="j-flag words">
 
           </WEBElement>
 
         </WEBElement>
+        <WEBElement  x="1237" y="930" width="87" height="36" tagName="DIV" content="" elementId="" class="oper f-fl">
 
-      </WEBElement>
-
-    </WEBElement>
-
-  </WEBElement>
-  <WEBElement  x="0" y="991" width="1920" height="0" tagName="DIV" content="" elementId="fixedTool" class="yx-cp-fixedtool-scrollToFixed fixedActive">
-    <WEBElement  x="1848" y="62" width="72" height="669" tagName="DIV" content="" elementId="" class="yx-cp-base yx-cp-fixedtool j-yx-cp-fixedtool">
-      <WEBElement  x="1848" y="62" width="72" height="140" tagName="A" content="" elementId="j-yx-fixedtoolDownloadlink" class="yx-fixedtoolDownload">
-        <WEBElement  x="1848" y="62" width="72" height="64" tagName="DIV" content="" elementId="" class="j-yx-fixTool-downloadQrcode yx-fixTool-downloadQrcode">
-          <WEBElement  x="1849" y="62" width="70" height="70" tagName="IMG" content="" elementId="">
+        </WEBElement>
+        <WEBElement  x="1324" y="930" width="126" height="36" tagName="DIV" content="" elementId="" class="ctrl f-fl f-pr j-flag">
+          <WEBElement  x="1391" y="930" width="59" height="36" tagName="SPAN" content="" elementId="" class="add f-pr">
 
           </WEBElement>
-
-        </WEBElement>
-        <WEBElement  x="1848" y="134" width="72" height="17" tagName="P" content="扫码领" elementId="" class="yx-fixedtool-downText1">
-
-        </WEBElement>
-        <WEBElement  x="1848" y="151" width="72" height="17" tagName="P" content="APP大额" elementId="" class="yx-fixedtool-downText2">
-
-        </WEBElement>
-        <WEBElement  x="1848" y="168" width="72" height="17" tagName="P" content="新人红包" elementId="" class="yx-fixedtool-downText2">
-
-        </WEBElement>
-
-      </WEBElement>
-      <WEBElement  x="1848" y="202" width="72" height="78" tagName="DIV" content="" elementId="j-yx-fixedtoolSubscribe" class="yx-fixedtoolSubscribe">
-        <WEBElement  x="1871" y="216" width="26" height="26" tagName="I" content="" elementId="" class="yx-cp-icon-yxfixedtool icon-yxfixedtool-subscribe">
-
-        </WEBElement>
-        <WEBElement  x="1848" y="250" width="72" height="20" tagName="P" content="订阅电子刊" elementId="" class="yx-fixedtoolText">
-
-        </WEBElement>
-
-      </WEBElement>
-      <WEBElement  x="1848" y="280" width="72" height="82" tagName="DIV" content="" elementId="j-yx-fixedtoolCustomerService" class="yx-fixedtoolCustomerService">
-        <WEBElement  x="1868" y="294" width="32" height="31" tagName="I" content="" elementId="" class="yx-cp-icon-yxfixedtool icon-yxfixedtool-customerService">
-
-        </WEBElement>
-        <WEBElement  x="1848" y="333" width="72" height="20" tagName="P" content="在线客服" elementId="" class="yx-fixedtoolText">
-
-        </WEBElement>
-
-      </WEBElement>
-      <WEBElement  x="1848" y="362" width="72" height="60" tagName="DIV" content="" elementId="j-yx-fixedtoolGoTop" class="yx-fixedtoolGoTop active">
-        <WEBElement  x="1872" y="376" width="24" height="15" tagName="I" content="" elementId="" class="yx-cp-icon-yxfixedtool icon-yxfixedtool-goTop">
-
-        </WEBElement>
-        <WEBElement  x="1848" y="399" width="72" height="20" tagName="P" content="回顶部" elementId="" class="yx-fixedtoolText">
 
         </WEBElement>
 
